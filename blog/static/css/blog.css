@@ -1,3 +1,13 @@
+h1 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+}
+
+body {
+    padding-left: 15px;
+}
+
+
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -12,10 +22,6 @@
 
 .content {
     margin-left: 40px;
-}
-
-.glyphicon{
-    float:right;
 }
 
 h1, h2, h3, h4 {
